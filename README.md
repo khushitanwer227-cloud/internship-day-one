@@ -9,7 +9,12 @@
 -prettier
 
 ## Git Commands Used
-
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khushitanwer227-cloud/internship-day-one.git
+git push -u origin main
 
 
 ## Steps Performed
@@ -26,7 +31,7 @@ Pushed the project to GitHub using git push.
 Verified that the repository was successfully uploaded to GitHub.
 
 
-### What I Learned
+## What I Learned
 How to set up a local development environment.
 Basics of version control using Git.
 How to initialize a Git repository.
